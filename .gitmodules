@@ -1,0 +1,3 @@
+[submodule "gym-extensions-mod"]
+	path = gym-extensions-mod
+	url = https://github.com/lebrice/gym-extensions.git
